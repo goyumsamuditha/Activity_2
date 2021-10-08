@@ -8,4 +8,4 @@ i = int(input("Enter number:"))
 while i >= 0:
     print("Output:", recursive(i))
     i = int(input("Enter number:"))
-print("Output:Finished:")
+print("Finished:")
