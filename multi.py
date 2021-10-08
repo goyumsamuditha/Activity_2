@@ -1,4 +1,5 @@
-X = int(input("Enter number:"))
-for i in (1,11):
+c = int(input("Enter number:"))
+x = 0
+for i in (1,c):
     x = i * i
-print(x)
+print("Square value",x)
