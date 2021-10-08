@@ -7,5 +7,5 @@ def recursive(a):
 i = int(input("Enter number that you want to find recursive:"))
 while i >= 0:
     print("Output:", recursive(i))
-    i = int(input("Enter number:"))
+    i = int(input("Enter number that you want to find recursive:"))
 print("Finished:")
