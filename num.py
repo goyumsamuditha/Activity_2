@@ -1,4 +1,5 @@
-x = 0
-for i in (1,11):
-    x = x + i
-print("Total",x)
+x =int(input("Enter number:"))
+a = 0
+for i in (1,x):
+    a = a + i
+print("Total",a)
