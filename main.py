@@ -4,7 +4,7 @@ def recursive(a):
     else:
         return a + recursive(a - 1)
 
-from tot import tot:
+from tot import tot
 i = a
 while i >= 0:
     print("Output:", recursive(i))
