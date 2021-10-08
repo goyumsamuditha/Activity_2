@@ -4,7 +4,8 @@ def recursive(a):
     else:
         return a + recursive(a - 1)
 
-i = int(input("Enter number that you want to find recursive:"))
+from tot import tot:
+i = a
 while i >= 0:
     print("Output:", recursive(i))
     i = int(input("Enter number:"))
